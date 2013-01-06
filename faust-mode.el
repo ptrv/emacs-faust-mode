@@ -61,7 +61,7 @@
 
 ;; define the mode
 (define-derived-mode faust-mode fundamental-mode
-  "FAUST mode"
+  "FAUST"
   "Major mode for editing FAUST files (Functional Audio Stream)…"
 
   ;; code for syntax highlighting
